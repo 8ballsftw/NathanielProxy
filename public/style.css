@@ -1,0 +1,13 @@
+#bookreviews {
+display: flex;
+flex-direction:row;
+overflow: hidden;
+margin:auto;
+}
+
+#booking {
+  position: fixed;
+  margin:auto;
+  overflow: hidden;
+}
+
